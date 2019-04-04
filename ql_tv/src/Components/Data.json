@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Pacific rim",
+        "tel":"0909090909",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "name":"Iron Man",
+        "tel":"0903576879",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"Shisedo",
+        "tel":"0901047547",
+        "Permission":3
+    },
+    {
+        "id":4,
+        "name":"Nguyễn Văn A",
+        "tel":"0903505050",
+        "Permission":1
+    },
+    {
+        "id":5,
+        "name":"Trần Thị B",
+        "tel":"0939484934",
+        "Permission":2
+    }
+]
